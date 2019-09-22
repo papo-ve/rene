@@ -1,0 +1,113 @@
+body {
+    background-color: #E0E3FE;
+}
+
+h1 {
+    color: #2C3379;
+    text-align: center;
+}
+
+p  {
+    color: #000000;
+    font-family: courier;
+    font-size: 100%
+}
+
+h2 {
+    color: #2C3379;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: #2C3379;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+.italictext {
+    font-style: italic;
+}
+
+a {
+    color: #000000;
+}
+
+ol {
+    color: #000000;
+}
+
+.bothtext {
+    font-weight: bold;
+    font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ececa3;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: 	#000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+
+}
+
+th, td {
+  padding: 10px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+tr:nth-child(odd) {background-color: #f2f2f2;}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+form {
+  color: #000000;
+  font-family: courier;
+  font-size: 100%
+}
+
+button {
+  color: #000000;
+  font-family: courier;
+
+}
+
+input {
+  color: #000000;
+}
+
+.center-div
+{
+     margin: 0 auto;
+     width: 100px; 
+}
